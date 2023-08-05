@@ -2,7 +2,7 @@
 
 A simple web-based Pomodoro Timer application built using HTML, CSS, and JavaScript. This timer helps you implement the Pomodoro Technique, a time management method that breaks work into intervals, traditionally 25 minutes in length, separated by short breaks.
 
-![Pomodoro Timer Screenshot](screenshot.png)
+![Pomodoro Timer Screenshot](screenshot/Pomodoro.png)
 
 ## Features
 
