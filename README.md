@@ -17,3 +17,4 @@ A simple web-based Pomodoro Timer application built using HTML, CSS, and JavaScr
 
    ```bash
    git clone https://github.com/yourusername/pomodoro-timer.git
+   ```
