@@ -17,3 +17,15 @@ A simple web-based Pomodoro Timer application built using HTML, CSS, and JavaScr
    ```bash
    git clone https://github.com/yourusername/pomodoro-timer.git
    ```
+
+2. Open the project folder in a code editor of your choice (e.g., Visual Studio Code, Atom, Sublime Text, etc.)
+
+```bash
+cd pomodoro-timer
+```
+
+3. Open the `index.html` file in your browser to view the application.
+
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
